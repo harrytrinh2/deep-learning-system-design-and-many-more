@@ -126,6 +126,49 @@
 1.  [Efficient Self-supervised Vision Transformers for Representation Learning]https://arxiv.org/pdf/2106.09785.pdf)
 <p align="center"><img width="400" src="images/esvit.png"></p>
  
+2.  [MoCo-v1: Momentum Contrast for Unsupervised Visual Representation Learning]https://arxiv.org/abs/1911.05722)
+<p align="center"><img width="400" src="images/mocov1.png"></p>
+
+3.  [MoCo-v2: Improved Baselines with Momentum Contrastive Learning]https://arxiv.org/abs/2003.04297)
+<p align="center"><img width="400" src="images/mocov2.png"></p>
+
+
+4.  [Moco-v3: An Empirical Study of Training Self-Supervised Vision Transformers]https://arxiv.org/pdf/2104.02057v4.pdf)
+<p align="center"><img width="400" src="images/mocov3.png"></p>
+
+5.  [Sisiam: Exploring Simple Siamese Representation Learning
+]https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf)
+
+
+6.  [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach]https://arxiv.org/pdf/2009.00104.pdf)
+
+
+7.  [Meta Pseudo Labels]https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf)
+
+
+8.  [DINO: Emerging Properties in Self-Supervised Vision Transformers]https://arxiv.org/pdf/2104.14294v2.pdf)
+
+
+9.  [SimCLR-v1: A Simple Framework for Contrastive Learning of Visual Representations]https://arxiv.org/abs/2002.05709)
+
+
+10.  [SimCLR-v2: Big Self-Supervised Models are Strong Semi-Supervised Learners]https://arxiv.org/abs/2006.10029)
+
+
+11.  [MoBY: Self-Supervised Learning with Swin Transformers]https://arxiv.org/pdf/2105.04553v2.pdf)
+
+
+12.  [SPICE: Semantic Pseudo-Labeling for Image Clustering]https://arxiv.org/pdf/2103.09382.pdf)
+
+
+13.  [Infomin: What Makes for Good Views for Contrastive Learning?]https://arxiv.org/pdf/2005.10243.pdf)
+
+
+14.  [Bootstrap Your Own Latent： A New Approach to Self-Supervised]https://arxiv.org/pdf/2006.07733.pdf)
+
+15.  [SeLa: Self-labelling via simultaneous clustering and representation learning]https://arxiv.org/abs/1911.05371)
+
+16.  [SLADE: A Self-Training Framework For Distance Metric Learning]https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_SLADE_A_Self-Training_Framework_for_Distance_Metric_Learning_CVPR_2021_paper.pdf)
 
 
 
