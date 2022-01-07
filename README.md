@@ -10,6 +10,8 @@
 
 * **[Domain Classification Papers](#domain-classification-papers)**  
 
+* **[Augmentation](#augmentation)**  
+
 * **[Self-Supervised Learning Papers](#papers-self-sup)**  
 
 
@@ -113,6 +115,12 @@
 <p align="center"><img width="400" src="images/domain-cls.png"></p>
 
 
+
+
+### Augmentation
+
+1.  [A Simple Semi-Supervised Learning Framework for Object Detection](https://arxiv.org/pdf/2005.04757.pdf)
+<p align="center"><img width="400" src="images/augmentation.png"></p>
 
 
 -----
