@@ -110,6 +110,7 @@
 ### Domain Classification Papers
 
 1.  [Compact Feature Learning for Multi-Domain Image Classification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Compact_Feature_Learning_for_Multi-Domain_Image_Classification_CVPR_2019_paper.pdf)
+<p align="center"><img width="400" src="images/domain-cls.png"></p>
 
 
 
