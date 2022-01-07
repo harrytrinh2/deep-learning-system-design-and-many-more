@@ -8,7 +8,9 @@
 
 * **[Videos and Lectures](#videos-and-lectures)**  
 
-* **[Papers - Self-Supervised Learning](#papers)**  
+* **[Papers - Domain Classification](#papers-domain)**  
+
+* **[Papers - Self-Supervised Learning](#papers-self-sup)**  
 
 
 ### Books
@@ -103,10 +105,9 @@
 25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) Course: 11-785, Intro to Deep Learning by Bhiksha Raj 
 26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : End part focuses on deep learning By Andrew Ng
 
-### Papers
-*You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
+### Papers - Domain Classification
 
-1.  [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+1.  [Compact Feature Learning for Multi-Domain Image Classification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Compact_Feature_Learning_for_Multi-Domain_Image_Classification_CVPR_2019_paper.pdf)
 
 -----
 ### Contributing
