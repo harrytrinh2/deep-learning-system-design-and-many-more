@@ -12,7 +12,7 @@
 
 * **[Augmentation](#augmentation)**  
 
-* **[Self-Supervised Learning Papers](#papers-self-sup)**  
+* **[Self Supervised Learning Papers](#Self-Supervised-Learning-Papers)**  
 
 
 ### Books
@@ -116,11 +116,18 @@
 
 
 
-
 ### Augmentation
 
 1.  [A Simple Semi-Supervised Learning Framework for Object Detection](https://arxiv.org/pdf/2005.04757.pdf)
 <p align="center"><img width="400" src="images/augmentation.png"></p>
+
+### Self Supervised Learning Papers
+
+1.  [Efficient Self-supervised Vision Transformers for Representation Learning]https://arxiv.org/pdf/2106.09785.pdf)
+<p align="center"><img width="400" src="images/esvit.png"></p>
+ 
+
+
 
 
 -----
