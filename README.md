@@ -171,8 +171,7 @@
 
 4.  [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 
- 
-4.  [Attention is all you need](https://arxiv.org/abs/1409.0473?fbclid=IwAR3nY1F8SxIuPuGs3pFM2uWxZ6tabkOAwWRVv0Uz_Sa5iPa5oFT0f4Rnds8)
+5.  [Attention is all you need](https://arxiv.org/abs/1409.0473?fbclid=IwAR3nY1F8SxIuPuGs3pFM2uWxZ6tabkOAwWRVv0Uz_Sa5iPa5oFT0f4Rnds8)
 
 
 
