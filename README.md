@@ -84,6 +84,17 @@
 <p align="center"><img width="400" src="images/google-time-series.gif"></p>
 <p align="center"><img width="400" src="images/google-TFT.png"></p>
 
+### Attention Transformers
+1.  [BERT video](https://www.youtube.com/watch?v=-9vVhYEXeyQ)
+
+2.  [Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/?fbclid=IwAR0gwaeL_MO8srC6l4oaoKKT_vFmIz9HgX4r-KpFOTt0LmG8oml8ykxulLc)
+
+3.  [Chapter 9.7](https://web.stanford.edu/~jurafsky/slp3/9.pdf?fbclid=IwAR0Gv3_1R17Dtwb95xtpJX5nyxhfdpybeQpawmC5z_hwD80mukSBFaVANrU)
+
+4.  [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
+
+ 
+4.  [Attention is all you need](https://arxiv.org/abs/1409.0473?fbclid=IwAR3nY1F8SxIuPuGs3pFM2uWxZ6tabkOAwWRVv0Uz_Sa5iPa5oFT0f4Rnds8)
 
 
 ### Courses
