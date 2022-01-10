@@ -2,11 +2,6 @@
 
 ## Table of Contents
 
-* **[Books](#books)**
-
-* **[Courses](#courses)**  
-
-* **[Videos and Lectures](#videos-and-lectures)**  
 
 * **[Domain Classification Papers](#domain-classification-papers)**  
 
@@ -14,24 +9,82 @@
 
 * **[Self Supervised Learning Papers](#Self-Supervised-Learning-Papers)**  
 
+* **[Time series](#time-series)**  
 
-### Books
+* **[Courses](#courses)**  
 
-1.  [Deep Learning](http://www.deeplearningbook.org/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
-2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
-3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013)
-4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
-5.  [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
-6.  [An introduction to genetic algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
-7.  [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/)
-8.  [Deep Learning in Neural Networks: An Overview](http://arxiv.org/pdf/1404.7828v4.pdf)
-9.  [Artificial intelligence and machine learning: Topic wise explanation](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/)
-10.[Grokking Deep Learning for Computer Vision](https://www.manning.com/books/grokking-deep-learning-for-computer-vision)
-11. [Dive into Deep Learning](https://d2l.ai/) - numpy based interactive Deep Learning book
-12. [Practical Deep Learning for Cloud, Mobile, and Edge](https://www.oreilly.com/library/view/practical-deep-learning/9781492034858/) - A book for optimization techniques during production.
-13. [Math and Architectures of Deep Learning](https://www.manning.com/books/math-and-architectures-of-deep-learning) - by Krishnendu Chaudhury
-14. [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action) - by Thushan Ganegedara
+* **[Videos and Lectures](#videos-and-lectures)**  
+
+### Domain Classification Papers
+
+1.  [Compact Feature Learning for Multi-Domain Image Classification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Compact_Feature_Learning_for_Multi-Domain_Image_Classification_CVPR_2019_paper.pdf)
+<p align="center"><img width="400" src="images/domain-cls.png"></p>
+
+
+
+### Augmentation
+
+1.  [A Simple Semi-Supervised Learning Framework for Object Detection](https://arxiv.org/pdf/2005.04757.pdf)
+<p align="center"><img width="400" src="images/augmentation.png"></p>
+
+### Self Supervised Learning Papers
+
+1.  [Efficient Self-supervised Vision Transformers for Representation Learning](https://arxiv.org/pdf/2106.09785.pdf)
+<p align="center"><img width="400" src="images/esvit.png"></p>
  
+2.  [MoCo-v1: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
+<p align="center"><img width="400" src="images/mocov1.png"></p>
+
+3.  [MoCo-v2: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
+<p align="center"><img width="400" src="images/mocov2.png"></p>
+
+
+4.  [Moco-v3: An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.02057v4.pdf)
+<p align="center"><img width="400" src="images/mocov3.png"></p>
+
+5.  [Sisiam: Exploring Simple Siamese Representation Learning
+](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf)
+
+
+6.  [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://arxiv.org/pdf/2009.00104.pdf)
+
+
+7.  [Meta Pseudo Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf)
+
+
+8.  [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294v2.pdf)
+
+
+9.  [SimCLR-v1: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
+
+
+10.  [SimCLR-v2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
+
+
+11.  [MoBY: Self-Supervised Learning with Swin Transformers](https://arxiv.org/pdf/2105.04553v2.pdf)
+
+
+12.  [SPICE: Semantic Pseudo-Labeling for Image Clustering](https://arxiv.org/pdf/2103.09382.pdf)
+
+
+13.  [Infomin: What Makes for Good Views for Contrastive Learning?](https://arxiv.org/pdf/2005.10243.pdf)
+
+
+14.  [Bootstrap Your Own Latent： A New Approach to Self-Supervised](https://arxiv.org/pdf/2006.07733.pdf)
+
+15.  [SeLa: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
+
+16.  [SLADE: A Self-Training Framework For Distance Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_SLADE_A_Self-Training_Framework_for_Distance_Metric_Learning_CVPR_2021_paper.pdf)
+
+
+
+### Time series
+
+1.  [Google AI - Interpretable Deep Learning for Time Series Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207021000637)
+<p align="center"><img width="400" src="images/google-time-series.gif"></p>
+
+
+
 ### Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
@@ -107,68 +160,6 @@
 25. [CMU 11-785 Intro to Deep learning Spring 2020](https://www.youtube.com/playlist?list=PLp-0K3kfddPzCnS4CqKphh-zT3aDwybDe) Course: 11-785, Intro to Deep Learning by Bhiksha Raj 
 26. [Machine Learning CS 229](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) : End part focuses on deep learning By Andrew Ng
 
-
-
-### Domain Classification Papers
-
-1.  [Compact Feature Learning for Multi-Domain Image Classification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Compact_Feature_Learning_for_Multi-Domain_Image_Classification_CVPR_2019_paper.pdf)
-<p align="center"><img width="400" src="images/domain-cls.png"></p>
-
-
-
-### Augmentation
-
-1.  [A Simple Semi-Supervised Learning Framework for Object Detection](https://arxiv.org/pdf/2005.04757.pdf)
-<p align="center"><img width="400" src="images/augmentation.png"></p>
-
-### Self Supervised Learning Papers
-
-1.  [Efficient Self-supervised Vision Transformers for Representation Learning](https://arxiv.org/pdf/2106.09785.pdf)
-<p align="center"><img width="400" src="images/esvit.png"></p>
- 
-2.  [MoCo-v1: Momentum Contrast for Unsupervised Visual Representation Learning](https://arxiv.org/abs/1911.05722)
-<p align="center"><img width="400" src="images/mocov1.png"></p>
-
-3.  [MoCo-v2: Improved Baselines with Momentum Contrastive Learning](https://arxiv.org/abs/2003.04297)
-<p align="center"><img width="400" src="images/mocov2.png"></p>
-
-
-4.  [Moco-v3: An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.02057v4.pdf)
-<p align="center"><img width="400" src="images/mocov3.png"></p>
-
-5.  [Sisiam: Exploring Simple Siamese Representation Learning
-](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf)
-
-
-6.  [A Framework For Contrastive Self-Supervised Learning And Designing A New Approach](https://arxiv.org/pdf/2009.00104.pdf)
-
-
-7.  [Meta Pseudo Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf)
-
-
-8.  [DINO: Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294v2.pdf)
-
-
-9.  [SimCLR-v1: A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709)
-
-
-10.  [SimCLR-v2: Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
-
-
-11.  [MoBY: Self-Supervised Learning with Swin Transformers](https://arxiv.org/pdf/2105.04553v2.pdf)
-
-
-12.  [SPICE: Semantic Pseudo-Labeling for Image Clustering](https://arxiv.org/pdf/2103.09382.pdf)
-
-
-13.  [Infomin: What Makes for Good Views for Contrastive Learning?](https://arxiv.org/pdf/2005.10243.pdf)
-
-
-14.  [Bootstrap Your Own Latent： A New Approach to Self-Supervised](https://arxiv.org/pdf/2006.07733.pdf)
-
-15.  [SeLa: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
-
-16.  [SLADE: A Self-Training Framework For Distance Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_SLADE_A_Self-Training_Framework_for_Distance_Metric_Learning_CVPR_2021_paper.pdf)
 
 
 
