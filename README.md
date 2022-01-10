@@ -41,7 +41,7 @@
 
 4.  [Moco-v3: An Empirical Study of Training Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.02057v4.pdf)
 <p align="center"><img width="400" src="images/mocov3.png"></p>
-
+<p align="center"><img width="400" src="images/mocov3-comparison"></p>
 5.  [Sisiam: Exploring Simple Siamese Representation Learning
 ](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.pdf)
 
@@ -71,7 +71,8 @@
 
 
 14.  [Bootstrap Your Own Latent： A New Approach to Self-Supervised](https://arxiv.org/pdf/2006.07733.pdf)
-
+<p align="center"><img width="400" src="images/byol.png"></p>
+<p align="center"><img width="400" src="images/byol1.png"></p>
 15.  [SeLa: Self-labelling via simultaneous clustering and representation learning](https://arxiv.org/abs/1911.05371)
 
 16.  [SLADE: A Self-Training Framework For Distance Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Duan_SLADE_A_Self-Training_Framework_for_Distance_Metric_Learning_CVPR_2021_paper.pdf)
