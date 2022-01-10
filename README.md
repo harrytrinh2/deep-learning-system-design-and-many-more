@@ -82,6 +82,7 @@
 
 1.  [Google AI - Interpretable Deep Learning for Time Series Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207021000637)
 <p align="center"><img width="400" src="images/google-time-series.gif"></p>
+<p align="center"><img width="400" src="images/google-TFT.png"></p>
 
 
 
