@@ -21,6 +21,18 @@
 <p align="center"><img width="400" src="images/domain-cls.png"></p>
 
 
+2.  [Dynamic Domain Adaptation for Efficient Inference](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Dynamic_Domain_Adaptation_for_Efficient_Inference_CVPR_2021_paper.pdf)
+
+
+3.  [Unsupervised Domain Adaptation through Self-Supervision](https://arxiv.org/pdf/1909.11825v2.pdf)
+
+
+4.  [Unsupervised Domain Adaptation with Similarity Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Pinheiro_Unsupervised_Domain_Adaptation_CVPR_2018_paper.pdf)
+
+
+5.  [Compact Feature Learning for Multi-domain Image Classification](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Compact_Feature_Learning_for_Multi-Domain_Image_Classification_CVPR_2019_paper.pdf)
+
+
 
 ### Augmentation
 
@@ -84,6 +96,33 @@
 1.  [Google AI - Interpretable Deep Learning for Time Series Forecasting](https://www.sciencedirect.com/science/article/pii/S0169207021000637)
 <p align="center"><img width="400" src="images/google-time-series.gif"></p>
 <p align="center"><img width="400" src="images/google-TFT.png"></p>
+
+
+### Reranking
+
+1.  [Re-ranking for image retrieval and transductive few-shot classification - Facebook AI 2021 Neurips](https://proceedings.neurips.cc/paper/2021/hash/d9fc0cdb67638d50f411432d0d41d0ba-Abstract.html)
+<p align="center"><img width="400" src="images/ssr.png"></p>
+<p align="center"><img width="400" src="images/ssr2.png"></p>
+
+
+2.  [Divide and fuse: a re-ranking approach for person Re-ID](https://arxiv.org/pdf/1708.04169.pdf)
+<p align="center"><img width="400" src="images/divide-fuse.png"></p>
+
+
+3.  [Re-ranking via Metric Fusion for Object Retrieval and Person Re-identification](https://openaccess.thecvf.com/content_CVPR_2019/html/Bai_Re-Ranking_via_Metric_Fusion_for_Object_Retrieval_and_Person_Re-Identification_CVPR_2019_paper.html)
+
+
+4.  [Contextual Similarity Aggregation with Self-attention for Visual Re-ranking](https://arxiv.org/pdf/2110.13430.pdf)
+<p align="center"><img width="400" src="images/visual-reranking.png"></p>
+
+
+5.  [Re-ranking Person Re-identification with k-reciprocal Encoding](https://arxiv.org/abs/1701.08398)
+<p align="center"><img width="400" src="images/k-reciprocal.png"></p>
+
+
+6.  [Transferable, Controllable, and Inconspicuous Adversarial Attacks on Person Re-identification With Deep Mis-Ranking](https://arxiv.org/pdf/1708.04169.pdf)
+<p align="center"><img width="400" src="images/Transferable.png"></p>
+
 
 ### Courses
 
